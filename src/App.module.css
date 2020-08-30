@@ -1,9 +1,10 @@
 body {
   background-color: rgb(250, 250, 250);
-  background-image: url('https://scrip.pharmaintelligence.informa.com/-/media/editorial/stock-images/covid-19/covid19_redcells_1642888921_1200.jpg?w=790&hash=616E216B0EC8C20FEE561DFEF93256AD');
+  background-image: url('https://cdn.pixabay.com/photo/2020/03/19/21/35/covid-4948866_960_720.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  backdrop-filter: blur(9px);
 }
 
 .container {
